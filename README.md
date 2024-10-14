@@ -7,5 +7,7 @@ Following the Auburn tradition, this program is designed to allow the user to en
 
 # Code Example
 echo "Welcome to Auburn's Hey day 2024! Please enter your name"
+
 read name
+
 echo "Hey $name, War Eagle!"
