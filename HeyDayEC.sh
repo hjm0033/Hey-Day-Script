@@ -6,5 +6,5 @@ read name
 # The name that is input is used in the script
 echo "Hey $name, War Eagle!"
 #Thanks for participating
-echo Thanks for participating in Hey Day! Share your Auburn spirit by saying hey the rest of the day"
+echo "Thanks for participating in Hey Day! Continue sharing your Auburn spirit the rest of the day by saying Hey"
 exit 
